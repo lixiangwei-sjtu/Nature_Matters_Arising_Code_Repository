@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying Nature Matters Arising manuscript."
+title: "Code for: Adult human amino-acid intake reveals a translational boundary for the Drosophila Lsp2 longevity signal"
+type: software
+authors:
+  - family-names: Li
+    given-names: Xiangwei
+  - family-names: Zhang
+    given-names: Hui
+  - family-names: Xu
+    given-names: Yaqian
+  - family-names: Ding
+    given-names: Chongyu
+  - family-names: Wang
+    given-names: Zhaojun
+version: 1.0.0
+date-released: 2026-09-30
